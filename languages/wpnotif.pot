@@ -1,0 +1,1450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WPNotif: WordPress SMS & WhatsApp Notifications\n"
+"POT-Creation-Date: 2019-08-27 00:32+0530\n"
+"PO-Revision-Date: 2019-06-25 18:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpnotif.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/functions.php:292
+msgid "WPNotif User Consent"
+msgstr ""
+
+#: includes/functions.php:544
+#, php-format
+msgid "and %s item"
+msgstr ""
+
+#: includes/functions.php:546
+#, php-format
+msgid "and %s items"
+msgstr ""
+
+#: includes/functions.php:1137 includes/functions.php:1289
+msgid "Error"
+msgstr ""
+
+#: includes/functions.php:1147 includes/functions.php:1235
+#: includes/functions.php:1279
+msgid "Invalid Mobile Number"
+msgstr ""
+
+#: includes/functions.php:1152
+msgid "Please enter a valid message!"
+msgstr ""
+
+#: includes/functions.php:1200
+msgid "Error: Message template not found!"
+msgstr ""
+
+#: includes/functions.php:1232
+msgid "Message Sent"
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:55
+msgid "View details"
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:78
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:131
+msgid "Check for updates"
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:227
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update/Puc/v4p6/Vcs/PluginUpdateChecker.php:99
+msgid "There is no changelog available."
+msgstr ""
+
+#: wpnotif.php:113
+msgid "Pending WhatsApp Web Messages"
+msgstr ""
+
+#: wpnotif.php:134 wpnotif.php:275 wpnotif.php:276 wpnotif.php:292
+#: wpnotif.php:293
+msgid "Send"
+msgstr ""
+
+#: wpnotif.php:178
+msgid "Pending Messages"
+msgstr ""
+
+#: wpnotif.php:184
+msgid "WPNotif Quick SMS"
+msgstr ""
+
+#: wpnotif.php:209 wpnotif.php:1663
+msgid "User Consent"
+msgstr ""
+
+#: wpnotif.php:216
+msgid "SMS"
+msgstr ""
+
+#: wpnotif.php:224
+msgid "Whatsapp"
+msgstr ""
+
+#: wpnotif.php:243
+msgid "Phone Number(s)"
+msgstr ""
+
+#: wpnotif.php:252
+msgid "Please input numbers with country code"
+msgstr ""
+
+#: wpnotif.php:264 wpnotif.php:1799
+msgid "Message"
+msgstr ""
+
+#: wpnotif.php:268 wpnotif.php:1815
+msgid "Placeholder List"
+msgstr ""
+
+#: wpnotif.php:274 wpnotif.php:291
+msgid "Processing"
+msgstr ""
+
+#: wpnotif.php:289
+msgid "Trigger Order Status Message"
+msgstr ""
+
+#: wpnotif.php:439
+msgid "Whatsapp Gateway"
+msgstr ""
+
+#: wpnotif.php:444
+msgid "Twilio Account SID"
+msgstr ""
+
+#: wpnotif.php:450
+msgid "Twilio Auth Token"
+msgstr ""
+
+#: wpnotif.php:456
+msgid "Whatsapp Number"
+msgstr ""
+
+#: wpnotif.php:470 wpnotif.php:481
+msgid "Access Key ID"
+msgstr ""
+
+#: wpnotif.php:471 wpnotif.php:482
+msgid "Secret Access Key"
+msgstr ""
+
+#: wpnotif.php:472 wpnotif.php:483
+msgid "Region"
+msgstr ""
+
+#: wpnotif.php:473 wpnotif.php:484 wpnotif.php:536 wpnotif.php:635
+#: wpnotif.php:726 wpnotif.php:1074 wpnotif.php:1079 wpnotif.php:1099
+#: wpnotif.php:1104
+msgid "Sender ID"
+msgstr ""
+
+#: wpnotif.php:480
+msgid "Application ID"
+msgstr ""
+
+#: wpnotif.php:491 wpnotif.php:545
+msgid "Access Key"
+msgstr ""
+
+#: wpnotif.php:492
+msgid "Access Secret"
+msgstr ""
+
+#: wpnotif.php:493 wpnotif.php:501 wpnotif.php:519 wpnotif.php:529
+#: wpnotif.php:584 wpnotif.php:618 wpnotif.php:644 wpnotif.php:656
+#: wpnotif.php:675 wpnotif.php:710
+msgid "From"
+msgstr ""
+
+#: wpnotif.php:500 wpnotif.php:515 wpnotif.php:535 wpnotif.php:569
+#: wpnotif.php:576 wpnotif.php:626 wpnotif.php:655 wpnotif.php:664
+#: wpnotif.php:701 wpnotif.php:717 wpnotif.php:1113 wpnotif.php:1118
+msgid "API Key"
+msgstr ""
+
+#: wpnotif.php:511
+msgid "API Username"
+msgstr ""
+
+#: wpnotif.php:525
+msgid "ClockWork API"
+msgstr ""
+
+#: wpnotif.php:549
+msgid "Originator"
+msgstr ""
+
+#: wpnotif.php:558
+msgid "Mobile"
+msgstr ""
+
+#: wpnotif.php:559 wpnotif.php:643 wpnotif.php:674 wpnotif.php:684
+#: wpnotif.php:693 wpnotif.php:709
+msgid "Password"
+msgstr ""
+
+#: wpnotif.php:563 wpnotif.php:570 wpnotif.php:598 wpnotif.php:627
+#: wpnotif.php:685 wpnotif.php:694 wpnotif.php:718
+msgid "Sender"
+msgstr ""
+
+#: wpnotif.php:580 wpnotif.php:665
+msgid "API Secret"
+msgstr ""
+
+#: wpnotif.php:590
+msgid "Auth ID"
+msgstr ""
+
+#: wpnotif.php:594 wpnotif.php:1063 wpnotif.php:1068
+msgid "Auth Token"
+msgstr ""
+
+#: wpnotif.php:617
+msgid "Token"
+msgstr ""
+
+#: wpnotif.php:634
+msgid "AppSid"
+msgstr ""
+
+#: wpnotif.php:642 wpnotif.php:654 wpnotif.php:673 wpnotif.php:708
+msgid "Username"
+msgstr ""
+
+#: wpnotif.php:683 wpnotif.php:692
+msgid "Login"
+msgstr ""
+
+#: wpnotif.php:725
+msgid "Auth Key"
+msgstr ""
+
+#: wpnotif.php:737
+msgid "Twilio"
+msgstr ""
+
+#: wpnotif.php:738
+msgid "WhatsApp Web"
+msgstr ""
+
+#: wpnotif.php:745
+msgid "For SMS Message"
+msgstr ""
+
+#: wpnotif.php:747 wpnotif.php:753 wpnotif.php:759
+msgid "Checkbox Text"
+msgstr ""
+
+#: wpnotif.php:751
+msgid "For WhatsApp Message"
+msgstr ""
+
+#: wpnotif.php:757
+msgid "Combine Both"
+msgstr ""
+
+#: wpnotif.php:777
+msgid "(New Order)"
+msgstr ""
+
+#: wpnotif.php:815
+msgid "Invalid msg91 sender id!"
+msgstr ""
+
+#: wpnotif.php:816
+msgid "Invalid Purchase Code"
+msgstr ""
+
+#: wpnotif.php:817
+msgid "Error! Please try again later"
+msgstr ""
+
+#: wpnotif.php:818
+msgid "Please complete your Settings"
+msgstr ""
+
+#: wpnotif.php:819
+msgid "Please complete your API Settings"
+msgstr ""
+
+#: wpnotif.php:824
+msgid "Oh Snap!"
+msgstr ""
+
+#: wpnotif.php:903
+msgid "Knowledgebase"
+msgstr ""
+
+#: wpnotif.php:906
+msgid "Changelog"
+msgstr ""
+
+#: wpnotif.php:911
+msgid "Register"
+msgstr ""
+
+#: wpnotif.php:922
+msgid "Gateway"
+msgstr ""
+
+#: wpnotif.php:926
+msgid "Notifications"
+msgstr ""
+
+#: wpnotif.php:931
+msgid "Send Quick SMS"
+msgstr ""
+
+#: wpnotif.php:968
+msgid "Save Changes"
+msgstr ""
+
+#: wpnotif.php:1051 wpnotif.php:1056
+msgid "Account SID"
+msgstr ""
+
+#: wpnotif.php:1087 wpnotif.php:1092
+msgid "Authentication Key"
+msgstr ""
+
+#: wpnotif.php:1208
+msgid "SMS Gateway"
+msgstr ""
+
+#: wpnotif.php:1275
+msgid "TEST GATEWAY SETTINGS"
+msgstr ""
+
+#: wpnotif.php:1287
+msgid "Your Mobile Number"
+msgstr ""
+
+#: wpnotif.php:1291
+msgid "Test"
+msgstr ""
+
+#: wpnotif.php:1297
+msgid "Response"
+msgstr ""
+
+#: wpnotif.php:1315
+msgid "All Countries"
+msgstr ""
+
+#: wpnotif.php:1320
+msgid "for"
+msgstr ""
+
+#: wpnotif.php:1330 wpnotif.php:1704 wpnotif.php:1782
+msgid "On"
+msgstr ""
+
+#: wpnotif.php:1331 wpnotif.php:1705 wpnotif.php:1783
+msgid "Off"
+msgstr ""
+
+#: wpnotif.php:1341
+msgid "Countries"
+msgstr ""
+
+#: wpnotif.php:1374
+msgid "Add Group"
+msgstr ""
+
+#: wpnotif.php:1412
+msgid "Afghanistan"
+msgstr ""
+
+#: wpnotif.php:1413
+msgid "Albania"
+msgstr ""
+
+#: wpnotif.php:1414
+msgid "Algeria"
+msgstr ""
+
+#: wpnotif.php:1415
+msgid "American Samoa"
+msgstr ""
+
+#: wpnotif.php:1416
+msgid "Andorra"
+msgstr ""
+
+#: wpnotif.php:1417
+msgid "Angola"
+msgstr ""
+
+#: wpnotif.php:1418
+msgid "Anguilla"
+msgstr ""
+
+#: wpnotif.php:1419
+msgid "Antigua"
+msgstr ""
+
+#: wpnotif.php:1420
+msgid "Argentina"
+msgstr ""
+
+#: wpnotif.php:1421
+msgid "Armenia"
+msgstr ""
+
+#: wpnotif.php:1422
+msgid "Aruba"
+msgstr ""
+
+#: wpnotif.php:1423
+msgid "Australia"
+msgstr ""
+
+#: wpnotif.php:1424
+msgid "Austria"
+msgstr ""
+
+#: wpnotif.php:1425
+msgid "Azerbaijan"
+msgstr ""
+
+#: wpnotif.php:1426
+msgid "Bahrain"
+msgstr ""
+
+#: wpnotif.php:1427
+msgid "Bangladesh"
+msgstr ""
+
+#: wpnotif.php:1428
+msgid "Barbados"
+msgstr ""
+
+#: wpnotif.php:1429
+msgid "Belarus"
+msgstr ""
+
+#: wpnotif.php:1430
+msgid "Belgium"
+msgstr ""
+
+#: wpnotif.php:1431
+msgid "Belize"
+msgstr ""
+
+#: wpnotif.php:1432
+msgid "Benin"
+msgstr ""
+
+#: wpnotif.php:1433
+msgid "Bermuda"
+msgstr ""
+
+#: wpnotif.php:1434
+msgid "Bhutan"
+msgstr ""
+
+#: wpnotif.php:1435
+msgid "Bolivia"
+msgstr ""
+
+#: wpnotif.php:1436
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: wpnotif.php:1437
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: wpnotif.php:1438
+msgid "Botswana"
+msgstr ""
+
+#: wpnotif.php:1439
+msgid "Brazil"
+msgstr ""
+
+#: wpnotif.php:1440
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: wpnotif.php:1441
+msgid "British Virgin Islands"
+msgstr ""
+
+#: wpnotif.php:1442
+msgid "Brunei"
+msgstr ""
+
+#: wpnotif.php:1443
+msgid "Bulgaria"
+msgstr ""
+
+#: wpnotif.php:1444
+msgid "Burkina Faso"
+msgstr ""
+
+#: wpnotif.php:1445
+msgid "Burundi"
+msgstr ""
+
+#: wpnotif.php:1446
+msgid "Cambodia"
+msgstr ""
+
+#: wpnotif.php:1447
+msgid "Cameroon"
+msgstr ""
+
+#: wpnotif.php:1448
+msgid "Canada"
+msgstr ""
+
+#: wpnotif.php:1449
+msgid "Cape Verde"
+msgstr ""
+
+#: wpnotif.php:1450
+msgid "Cayman Islands"
+msgstr ""
+
+#: wpnotif.php:1451
+msgid "Central African Republic"
+msgstr ""
+
+#: wpnotif.php:1452
+msgid "Chad"
+msgstr ""
+
+#: wpnotif.php:1453
+msgid "Chile"
+msgstr ""
+
+#: wpnotif.php:1454
+msgid "China"
+msgstr ""
+
+#: wpnotif.php:1455
+msgid "Colombia"
+msgstr ""
+
+#: wpnotif.php:1456
+msgid "Comoros"
+msgstr ""
+
+#: wpnotif.php:1457
+msgid "Cook Islands"
+msgstr ""
+
+#: wpnotif.php:1458
+msgid "Costa Rica"
+msgstr ""
+
+#: wpnotif.php:1459
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: wpnotif.php:1460
+msgid "Croatia"
+msgstr ""
+
+#: wpnotif.php:1461
+msgid "Cuba"
+msgstr ""
+
+#: wpnotif.php:1462
+msgid "Curaçao"
+msgstr ""
+
+#: wpnotif.php:1463
+msgid "Cyprus"
+msgstr ""
+
+#: wpnotif.php:1464
+msgid "Czech Republic"
+msgstr ""
+
+#: wpnotif.php:1465
+msgid "Democratic Republic of the Congo"
+msgstr ""
+
+#: wpnotif.php:1466
+msgid "Denmark"
+msgstr ""
+
+#: wpnotif.php:1467
+msgid "Djibouti"
+msgstr ""
+
+#: wpnotif.php:1468
+msgid "Dominica"
+msgstr ""
+
+#: wpnotif.php:1469
+msgid "Dominican Republic"
+msgstr ""
+
+#: wpnotif.php:1470
+msgid "Ecuador"
+msgstr ""
+
+#: wpnotif.php:1471
+msgid "Egypt"
+msgstr ""
+
+#: wpnotif.php:1472
+msgid "El Salvador"
+msgstr ""
+
+#: wpnotif.php:1473
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: wpnotif.php:1474
+msgid "Eritrea"
+msgstr ""
+
+#: wpnotif.php:1475
+msgid "Estonia"
+msgstr ""
+
+#: wpnotif.php:1476
+msgid "Ethiopia"
+msgstr ""
+
+#: wpnotif.php:1477
+msgid "Falkland Islands"
+msgstr ""
+
+#: wpnotif.php:1478
+msgid "Faroe Islands"
+msgstr ""
+
+#: wpnotif.php:1479
+msgid "Federated States of Micronesia"
+msgstr ""
+
+#: wpnotif.php:1480
+msgid "Fiji"
+msgstr ""
+
+#: wpnotif.php:1481
+msgid "Finland"
+msgstr ""
+
+#: wpnotif.php:1482
+msgid "France"
+msgstr ""
+
+#: wpnotif.php:1483
+msgid "French Guiana"
+msgstr ""
+
+#: wpnotif.php:1484
+msgid "French Polynesia"
+msgstr ""
+
+#: wpnotif.php:1485
+msgid "Gabon"
+msgstr ""
+
+#: wpnotif.php:1486
+msgid "Georgia"
+msgstr ""
+
+#: wpnotif.php:1487
+msgid "Germany"
+msgstr ""
+
+#: wpnotif.php:1488
+msgid "Ghana"
+msgstr ""
+
+#: wpnotif.php:1489
+msgid "Gibraltar"
+msgstr ""
+
+#: wpnotif.php:1490
+msgid "Greece"
+msgstr ""
+
+#: wpnotif.php:1491
+msgid "Greenland"
+msgstr ""
+
+#: wpnotif.php:1492
+msgid "Grenada"
+msgstr ""
+
+#: wpnotif.php:1493
+msgid "Guadeloupe"
+msgstr ""
+
+#: wpnotif.php:1494
+msgid "Guam"
+msgstr ""
+
+#: wpnotif.php:1495
+msgid "Guatemala"
+msgstr ""
+
+#: wpnotif.php:1496
+msgid "Guernsey"
+msgstr ""
+
+#: wpnotif.php:1497
+msgid "Guinea"
+msgstr ""
+
+#: wpnotif.php:1498
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: wpnotif.php:1499
+msgid "Guyana"
+msgstr ""
+
+#: wpnotif.php:1500
+msgid "Haiti"
+msgstr ""
+
+#: wpnotif.php:1501
+msgid "Honduras"
+msgstr ""
+
+#: wpnotif.php:1502
+msgid "Hong Kong"
+msgstr ""
+
+#: wpnotif.php:1503
+msgid "Hungary"
+msgstr ""
+
+#: wpnotif.php:1504
+msgid "Iceland"
+msgstr ""
+
+#: wpnotif.php:1505
+msgid "India"
+msgstr ""
+
+#: wpnotif.php:1506
+msgid "Indonesia"
+msgstr ""
+
+#: wpnotif.php:1507
+msgid "Iran"
+msgstr ""
+
+#: wpnotif.php:1508
+msgid "Iraq"
+msgstr ""
+
+#: wpnotif.php:1509
+msgid "Ireland"
+msgstr ""
+
+#: wpnotif.php:1510
+msgid "Isle Of Man"
+msgstr ""
+
+#: wpnotif.php:1511
+msgid "Israel"
+msgstr ""
+
+#: wpnotif.php:1512
+msgid "Italy"
+msgstr ""
+
+#: wpnotif.php:1513
+msgid "Jamaica"
+msgstr ""
+
+#: wpnotif.php:1514
+msgid "Japan"
+msgstr ""
+
+#: wpnotif.php:1515
+msgid "Jersey"
+msgstr ""
+
+#: wpnotif.php:1516
+msgid "Jordan"
+msgstr ""
+
+#: wpnotif.php:1517
+msgid "Kazakhstan"
+msgstr ""
+
+#: wpnotif.php:1518
+msgid "Kenya"
+msgstr ""
+
+#: wpnotif.php:1519
+msgid "Kiribati"
+msgstr ""
+
+#: wpnotif.php:1520
+msgid "Kuwait"
+msgstr ""
+
+#: wpnotif.php:1521
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: wpnotif.php:1522
+msgid "Laos"
+msgstr ""
+
+#: wpnotif.php:1523
+msgid "Latvia"
+msgstr ""
+
+#: wpnotif.php:1524
+msgid "Lebanon"
+msgstr ""
+
+#: wpnotif.php:1525
+msgid "Lesotho"
+msgstr ""
+
+#: wpnotif.php:1526
+msgid "Liberia"
+msgstr ""
+
+#: wpnotif.php:1527
+msgid "Libya"
+msgstr ""
+
+#: wpnotif.php:1528
+msgid "Liechtenstein"
+msgstr ""
+
+#: wpnotif.php:1529
+msgid "Lithuania"
+msgstr ""
+
+#: wpnotif.php:1530
+msgid "Luxembourg"
+msgstr ""
+
+#: wpnotif.php:1531
+msgid "Macau"
+msgstr ""
+
+#: wpnotif.php:1532
+msgid "Macedonia"
+msgstr ""
+
+#: wpnotif.php:1533
+msgid "Madagascar"
+msgstr ""
+
+#: wpnotif.php:1534
+msgid "Malawi"
+msgstr ""
+
+#: wpnotif.php:1535
+msgid "Malaysia"
+msgstr ""
+
+#: wpnotif.php:1536
+msgid "Maldives"
+msgstr ""
+
+#: wpnotif.php:1537
+msgid "Mali"
+msgstr ""
+
+#: wpnotif.php:1538
+msgid "Malta"
+msgstr ""
+
+#: wpnotif.php:1539
+msgid "Marshall Islands"
+msgstr ""
+
+#: wpnotif.php:1540
+msgid "Martinique"
+msgstr ""
+
+#: wpnotif.php:1541
+msgid "Mauritania"
+msgstr ""
+
+#: wpnotif.php:1542
+msgid "Mauritius"
+msgstr ""
+
+#: wpnotif.php:1543
+msgid "Mayotte"
+msgstr ""
+
+#: wpnotif.php:1544
+msgid "Mexico"
+msgstr ""
+
+#: wpnotif.php:1545
+msgid "Moldova"
+msgstr ""
+
+#: wpnotif.php:1546
+msgid "Monaco"
+msgstr ""
+
+#: wpnotif.php:1547
+msgid "Mongolia"
+msgstr ""
+
+#: wpnotif.php:1548
+msgid "Montenegro"
+msgstr ""
+
+#: wpnotif.php:1549
+msgid "Montserrat"
+msgstr ""
+
+#: wpnotif.php:1550
+msgid "Morocco"
+msgstr ""
+
+#: wpnotif.php:1551
+msgid "Mozambique"
+msgstr ""
+
+#: wpnotif.php:1552
+msgid "Myanmar"
+msgstr ""
+
+#: wpnotif.php:1553
+msgid "Namibia"
+msgstr ""
+
+#: wpnotif.php:1554
+msgid "Nauru"
+msgstr ""
+
+#: wpnotif.php:1555
+msgid "Nepal"
+msgstr ""
+
+#: wpnotif.php:1556
+msgid "Netherlands"
+msgstr ""
+
+#: wpnotif.php:1557
+msgid "New Caledonia"
+msgstr ""
+
+#: wpnotif.php:1558
+msgid "New Zealand"
+msgstr ""
+
+#: wpnotif.php:1559
+msgid "Nicaragua"
+msgstr ""
+
+#: wpnotif.php:1560
+msgid "Niger"
+msgstr ""
+
+#: wpnotif.php:1561
+msgid "Nigeria"
+msgstr ""
+
+#: wpnotif.php:1562
+msgid "Niue"
+msgstr ""
+
+#: wpnotif.php:1563
+msgid "Norfolk Island"
+msgstr ""
+
+#: wpnotif.php:1564
+msgid "North Korea"
+msgstr ""
+
+#: wpnotif.php:1565
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: wpnotif.php:1566
+msgid "Norway"
+msgstr ""
+
+#: wpnotif.php:1567
+msgid "Oman"
+msgstr ""
+
+#: wpnotif.php:1568
+msgid "Pakistan"
+msgstr ""
+
+#: wpnotif.php:1569
+msgid "Palau"
+msgstr ""
+
+#: wpnotif.php:1570
+msgid "Palestine"
+msgstr ""
+
+#: wpnotif.php:1571
+msgid "Panama"
+msgstr ""
+
+#: wpnotif.php:1572
+msgid "Papua New Guinea"
+msgstr ""
+
+#: wpnotif.php:1573
+msgid "Paraguay"
+msgstr ""
+
+#: wpnotif.php:1574
+msgid "Peru"
+msgstr ""
+
+#: wpnotif.php:1575
+msgid "Philippines"
+msgstr ""
+
+#: wpnotif.php:1576
+msgid "Poland"
+msgstr ""
+
+#: wpnotif.php:1577
+msgid "Portugal"
+msgstr ""
+
+#: wpnotif.php:1578
+msgid "Puerto Rico"
+msgstr ""
+
+#: wpnotif.php:1579
+msgid "Qatar"
+msgstr ""
+
+#: wpnotif.php:1580
+msgid "Republic of the Congo"
+msgstr ""
+
+#: wpnotif.php:1581
+msgid "Romania"
+msgstr ""
+
+#: wpnotif.php:1582
+msgid "Runion"
+msgstr ""
+
+#: wpnotif.php:1583
+msgid "Russia"
+msgstr ""
+
+#: wpnotif.php:1584
+msgid "Rwanda"
+msgstr ""
+
+#: wpnotif.php:1585
+msgid "Saint Helena"
+msgstr ""
+
+#: wpnotif.php:1586
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: wpnotif.php:1587
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: wpnotif.php:1588
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: wpnotif.php:1589
+msgid "Samoa"
+msgstr ""
+
+#: wpnotif.php:1590
+msgid "San Marino"
+msgstr ""
+
+#: wpnotif.php:1591
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: wpnotif.php:1592
+msgid "Saudi Arabia"
+msgstr ""
+
+#: wpnotif.php:1593
+msgid "Senegal"
+msgstr ""
+
+#: wpnotif.php:1594
+msgid "Serbia"
+msgstr ""
+
+#: wpnotif.php:1595
+msgid "Seychelles"
+msgstr ""
+
+#: wpnotif.php:1596
+msgid "Sierra Leone"
+msgstr ""
+
+#: wpnotif.php:1597
+msgid "Singapore"
+msgstr ""
+
+#: wpnotif.php:1598
+msgid "Sint Maarten"
+msgstr ""
+
+#: wpnotif.php:1599
+msgid "Slovakia"
+msgstr ""
+
+#: wpnotif.php:1600
+msgid "Slovenia"
+msgstr ""
+
+#: wpnotif.php:1601
+msgid "Solomon Islands"
+msgstr ""
+
+#: wpnotif.php:1602
+msgid "Somalia"
+msgstr ""
+
+#: wpnotif.php:1603
+msgid "South Africa"
+msgstr ""
+
+#: wpnotif.php:1604
+msgid "South Korea"
+msgstr ""
+
+#: wpnotif.php:1605
+msgid "South Sudan"
+msgstr ""
+
+#: wpnotif.php:1606
+msgid "Spain"
+msgstr ""
+
+#: wpnotif.php:1607
+msgid "Sri Lanka"
+msgstr ""
+
+#: wpnotif.php:1608
+msgid "St. Lucia"
+msgstr ""
+
+#: wpnotif.php:1609
+msgid "Sudan"
+msgstr ""
+
+#: wpnotif.php:1610
+msgid "Suriname"
+msgstr ""
+
+#: wpnotif.php:1611
+msgid "Swaziland"
+msgstr ""
+
+#: wpnotif.php:1612
+msgid "Sweden"
+msgstr ""
+
+#: wpnotif.php:1613
+msgid "Switzerland"
+msgstr ""
+
+#: wpnotif.php:1614
+msgid "Syria"
+msgstr ""
+
+#: wpnotif.php:1615
+msgid "Taiwan"
+msgstr ""
+
+#: wpnotif.php:1616
+msgid "Tajikistan"
+msgstr ""
+
+#: wpnotif.php:1617
+msgid "Tanzania"
+msgstr ""
+
+#: wpnotif.php:1618
+msgid "Thailand"
+msgstr ""
+
+#: wpnotif.php:1619
+msgid "The Bahamas"
+msgstr ""
+
+#: wpnotif.php:1620
+msgid "The Gambia"
+msgstr ""
+
+#: wpnotif.php:1621
+msgid "Timor-Leste"
+msgstr ""
+
+#: wpnotif.php:1622
+msgid "Togo"
+msgstr ""
+
+#: wpnotif.php:1623
+msgid "Tokelau"
+msgstr ""
+
+#: wpnotif.php:1624
+msgid "Tonga"
+msgstr ""
+
+#: wpnotif.php:1625
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: wpnotif.php:1626
+msgid "Tunisia"
+msgstr ""
+
+#: wpnotif.php:1627
+msgid "Turkey"
+msgstr ""
+
+#: wpnotif.php:1628
+msgid "Turkmenistan"
+msgstr ""
+
+#: wpnotif.php:1629
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: wpnotif.php:1630
+msgid "Tuvalu"
+msgstr ""
+
+#: wpnotif.php:1631
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: wpnotif.php:1632
+msgid "Uganda"
+msgstr ""
+
+#: wpnotif.php:1633
+msgid "Ukraine"
+msgstr ""
+
+#: wpnotif.php:1634
+msgid "United Arab Emirates"
+msgstr ""
+
+#: wpnotif.php:1635
+msgid "United Kingdom"
+msgstr ""
+
+#: wpnotif.php:1636
+msgid "United States"
+msgstr ""
+
+#: wpnotif.php:1637
+msgid "Uruguay"
+msgstr ""
+
+#: wpnotif.php:1638
+msgid "Uzbekistan"
+msgstr ""
+
+#: wpnotif.php:1639
+msgid "Vanuatu"
+msgstr ""
+
+#: wpnotif.php:1640
+msgid "Venezuela"
+msgstr ""
+
+#: wpnotif.php:1641
+msgid "Vietnam"
+msgstr ""
+
+#: wpnotif.php:1642
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: wpnotif.php:1643
+msgid "Western Sahara"
+msgstr ""
+
+#: wpnotif.php:1644
+msgid "Yemen"
+msgstr ""
+
+#: wpnotif.php:1645
+msgid "Zambia"
+msgstr ""
+
+#: wpnotif.php:1646
+msgid "Zimbabwe"
+msgstr ""
+
+#: wpnotif.php:1667
+msgid "Admin Notifications"
+msgstr ""
+
+#: wpnotif.php:1670
+msgid "User Role"
+msgstr ""
+
+#: wpnotif.php:1691
+msgid "Customer Notifications"
+msgstr ""
+
+#: wpnotif.php:1696
+msgid "Enable gateway based different content"
+msgstr ""
+
+#: wpnotif.php:1731
+msgid "You've received a new order for amount {{wc-order-amount}}"
+msgstr ""
+
+#: wpnotif.php:1743
+msgid "I would like to receive order updates on SMS"
+msgstr ""
+
+#: wpnotif.php:1747
+msgid "I would like to receive order updates on WhatsApp"
+msgstr ""
+
+#: wpnotif.php:1751
+msgid "I would like to receive order updates on SMS and WhatsApp"
+msgstr ""
+
+#: wpnotif.php:1838 wpnotif.php:1849
+msgid "Hey! Your order #{{wc-order}} has been received by {{sitename}}. :)"
+msgstr ""
+
+#: wpnotif.php:1878
+msgid "Is this domain your"
+msgstr ""
+
+#: wpnotif.php:1882
+msgid "Live Server"
+msgstr ""
+
+#: wpnotif.php:1884
+msgid "Testing Server"
+msgstr ""
+
+#: wpnotif.php:1890
+msgid "Purchase code"
+msgstr ""
+
+#: wpnotif.php:1896
+msgid "Purchase Code"
+msgstr ""
+
+#: wpnotif.php:1899
+msgid "UNREGISTER"
+msgstr ""
+
+#: wpnotif.php:1919
+msgid "Please activate your plugin to receive updates"
+msgstr ""
+
+#: wpnotif.php:1931
+msgid ""
+"If you want to use same purchase code on your live server then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+
+#: wpnotif.php:1936
+msgid ""
+"If you want to use same purchase code on your testing server then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+
+#: wpnotif.php:1942
+msgid "Request Live Server Addition"
+msgstr ""
+
+#: wpnotif.php:1947
+msgid "Request Testing Server Addition"
+msgstr ""
+
+#: wpnotif.php:1996
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPNotif: WordPress SMS & WhatsApp Notifications"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpnotif.unitedover.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Send SMS or WhatsApp message to your customers or inform them about their "
+"WooCommerce order updates."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr ""
